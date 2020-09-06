@@ -4,4 +4,4 @@
 Check out my work history on [Linked In](https://www.linkedin.com/in/varunghaswala/)
 
 📫 How to reach me:
-varun.ghaswala at gmail.com
+`varun.ghaswala at gmail.com`
